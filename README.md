@@ -1,0 +1,2 @@
+# employee-management-android
+This application to generate values for employees from a database seamlessly and randomly, add said employee's details to a database (DerbyDB for Windows, SQLite for Android) and display said employees in a table with the option to search, sort or edit details.  The android app was developed using Material Design and Android Jetpack by implementing the latest design guidelines such as RecylerView, SearchView and Cards. The desktop application was developed using JavaFX and SceneBuilder.
