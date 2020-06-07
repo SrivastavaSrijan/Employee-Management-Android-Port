@@ -1,4 +1,4 @@
-# Employmee Management App :tomato:
+# Employmee Management App :construction_worker:
 
 
 * This application to generate values for employees from a database seamlessly and randomly, add said employee's details to a database (SQLite for Android) and display said employees in a table with the option to search, sort or edit details. 
