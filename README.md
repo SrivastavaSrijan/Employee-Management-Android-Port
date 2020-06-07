@@ -28,7 +28,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 ### Nobody does anything alone. A huge thanks to - 
-* My parents for trying this out for their yoga practice
-* Friends and confidantes - thank you for your patience
-* StackOverFlow and everyone whose code I used (the full list of libraries and attributions are on (https://srijansrivastava.tech/pomodoro-clock-hello/))
+* My parents for their house and the amazing coffe-making capabilities it has.
+* Friends and confidantes - thank you for your patience.
+* StackOverFlow and everyone whose code I used.
   
